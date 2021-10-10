@@ -1,0 +1,17 @@
+.sidebar{
+    width: 100px;
+}
+
+.sidebarLogo{
+    width: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.0625);
+    border-right: 1px solid rgba(0, 0, 0, 0.0625);
+}
+
+.logo{
+    width: 90px;
+    cursor: pointer;
+}
